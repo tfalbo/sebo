@@ -136,7 +136,7 @@
 }
 
 .og-details a::before {
-	content: '\2192';
+	content: 'QUERO!';
 	display: inline-block;
 	margin-right: 10px;
 }
@@ -191,5 +191,5 @@
 
 	.og-fullimg { display: none; }
 	.og-details { float: none; width: 100%; }
-	
+
 }
