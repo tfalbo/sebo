@@ -73,7 +73,7 @@ title = "Como comprar?"
 image = "images/full/pergunta.png"
 thumb = "images/thumbs/pergunta.png"
 alt = ""
-description = "Para comprar, você deve entrar em contato comigo pelo e-mail me@thaissa.me."
+description = "Para comprar, você pode entrar em contato comigo pelo e-mail me@thaissa.me."
 [[items]]
 title = "Como é feita a entrega?"
 image = "images/full/entrega.png"
